@@ -58,7 +58,7 @@
 
 ---
 
-## 📌 Current Projects
+## 📌 Current & Previous Projects
 
 - 🔹 Local AI image generator with custom backend and API  
 - 🔹 Portfolio platform with CMS-like admin system  
@@ -79,6 +79,4 @@
 
 <div align="left">
   <img src="https://streak-stats.demolab.com?user=aleksanderekman&theme=dark&hide_border=true" />
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aleksanderekman&theme=dark&hide_border=true&layout=compact" />
 </div>
