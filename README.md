@@ -14,7 +14,7 @@
 ## 👨‍💻 About Me
 
 - 🇳🇴 Based in Oslo, Norway  
-- 🎓 Studying IT at Elvebakken Upper Secondary School  
+- 🎓 Studying IT & high-education preperations at Elvebakken Upper Secondary School  
 - 💻 Building full-stack applications and backend systems  
 - ☁️ Interested in cloud infrastructure and scalable systems  
 - 🧠 Exploring AI, automation, and future technology platforms  
